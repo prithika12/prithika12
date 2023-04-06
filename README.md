@@ -1,6 +1,6 @@
 
 
-<p><img align="right" width="500" src="https://media.licdn.com/dms/image/C5612AQG7GnrlpoBG9w/article-cover_image-shrink_423_752/0/1594835668489?e=1686182400&v=beta&t=pFtzVASfGqi87gnKBMHffLPCH_x-Avb9MyhJpn9hUJM"></p>
+<p><img align="top" width="500" src="https://media.licdn.com/dms/image/C5612AQG7GnrlpoBG9w/article-cover_image-shrink_423_752/0/1594835668489?e=1686182400&v=beta&t=pFtzVASfGqi87gnKBMHffLPCH_x-Avb9MyhJpn9hUJM"></p>
 
 
 <h1 align="center">Hi 👋, I'm Prithika Kamalesan</h1>
