@@ -10,9 +10,9 @@ A passionate computer science student interested in software, data science, and 
 
 💬 Ask me about: Software Development, ML, and Data Science
 
-📫 How to reach me: muhammad.rabee02@gmail.com
+📫 How to reach me: 
 
-👨‍💻 Visit my portfolio website: https://mrabee.com/
+👨‍💻 Visit my portfolio website: 
 
 ⚡ Interests: Weightlifting, Old-School Rap Music, RPG/FPS Video Games
 
