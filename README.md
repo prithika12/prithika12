@@ -1,5 +1,5 @@
 
-<div style="background-color: #f5f5f5; height: 500px;"></div>
+<div style="background-color: #ffff; height: 500px;"></div>
 
 <p><img align="right" width="500" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif"></p>
 
