@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*NgY4KnNX42QLpPmN.gif" style="margin-top: 20px;">
+<img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*NgY4KnNX42QLpPmN.gif" style="margin-top: 80px;">
 
 
 <h1 align="center">Hi 👋, I'm Prithika Kamalesan</h1>
