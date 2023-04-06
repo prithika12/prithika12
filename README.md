@@ -1,5 +1,5 @@
 
-<div style="align: center;">
+<div style="align: middle;">
   <img width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*NgY4KnNX42QLpPmN.gif">
 </div>
 
