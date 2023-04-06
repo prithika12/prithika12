@@ -1,6 +1,4 @@
-![logo]([https://github.com/prithika12/prithika12/blob/main/keyboard.gif](https://github.com/prithika12/prithika12/blob/main/code.gif))
-
-<img align="top" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4569474--Code-animation&psig=AOvVaw0081UoZ05svIQv4cvhoZqJ&ust=1680901922622000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiH7eGVlv4CFQAAAAAdAAAAABBO">
+<img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*NgY4KnNX42QLpPmN.gif">
 <h1 align="center">Hi 👋, I'm Prithika Kamalesan</h1>
 <h3 align="center">A passionate computer science student interested in software, web development, and UX/UI Design</h3>
 
