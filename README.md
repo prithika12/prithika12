@@ -1,11 +1,6 @@
-<style>
-.aligned-image {
-  float: right;
-  margin-top: 20px;
-}
-</style>
 
-<img class="aligned-image" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*NgY4KnNX42QLpPmN.gif">
+
+<img class="aligned-image" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*NgY4KnNX42QLpPmN.gif" style="float: right; margin-top: 20px;">
 
 
 <h1 align="center">Hi 👋, I'm Prithika Kamalesan</h1>
