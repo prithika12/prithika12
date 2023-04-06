@@ -1,6 +1,6 @@
 
 
-<img align="middle" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*NgY4KnNX42QLpPmN.gif">
+<img width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*NgY4KnNX42QLpPmN.gif" style="display: block; margin: auto;">
 
 <h1 align="center">Hi 👋, I'm Prithika Kamalesan</h1>
 <h3 align="center">A passionate computer science student interested in software, web development, and UX/UI Design</h3>
