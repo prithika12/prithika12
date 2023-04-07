@@ -15,7 +15,7 @@
 
 #### - 📫 How to reach me **prithikamalesan@gmail.com**
 
-#### - ⚡ Interests **Music, Journaling, Photography**
+#### - ⚡ Interests: **Music, Journaling, Photography**
     
 
 
