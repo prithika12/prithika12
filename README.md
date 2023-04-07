@@ -4,9 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm Prithika Kamalesan</h1>
 
-<p><img align="right" width="300" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif"></p>
-
 <h3 align="center">A passionate computer science student interested in software, web development, and UX/UI Design</h3>
+
+<p><img align="right" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif"></p>
+
 
 - 🔭 I’m currently learning **Full Stack Web Development**
 
