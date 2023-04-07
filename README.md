@@ -9,13 +9,13 @@
 <p><img align="right" width="360" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif"></p>
 
 
-## - 🔭 I’m currently learning **Full Stack Web Development**
+#### - 🔭 I’m currently learning **Full Stack Web Development**
 
-## - 💬 Ask me about **react, app development, User Experience Design**
+#### - 💬 Ask me about **react, app development, User Experience Design**
 
-## - 📫 How to reach me **prithikamalesan@gmail.com**
+#### - 📫 How to reach me **prithikamalesan@gmail.com**
 
-## - ⚡ Interests **Music, Journaling, Photography**
+#### - ⚡ Interests **Music, Journaling, Photography**
     
 
 
