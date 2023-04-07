@@ -8,16 +8,16 @@
 
 <p><img align="right" width="360" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif"></p>
 
-<h4
-- 🔭 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **react, app development, User Experience Design**
+### - 🔭 I’m currently learning **Full Stack Web Development**
 
-- 📫 How to reach me **prithikamalesan@gmail.com**
+### - 💬 Ask me about **react, app development, User Experience Design**
 
-- ⚡ Interests **Music, Journaling, Photography**
+### - 📫 How to reach me **prithikamalesan@gmail.com**
+
+### - ⚡ Interests **Music, Journaling, Photography**
     
->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
