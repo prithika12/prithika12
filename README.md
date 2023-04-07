@@ -1,7 +1,6 @@
 
-<div style="background-color: #ffff; height: 500px;"></div>
 
-<p><img align="right" width="500" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif"></p>
+<p><img align="right" width="500" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif"></p>
 
 
 <h1 align="center">Hi 👋, I'm Prithika Kamalesan</h1>
