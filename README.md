@@ -1,6 +1,6 @@
 
 
-<p><img align="right" width="500" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif"></p>
+<p><img align="right" width="300" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif"></p>
 
 
 <h1 align="center">Hi 👋, I'm Prithika Kamalesan</h1>
