@@ -60,10 +60,6 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithika12&show_icons=true&locale=en&layout=compact" alt="prithika12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithika12&" alt="prithika12" /></p>
-
 <!---
 prithika12/prithika12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
