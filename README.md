@@ -10,7 +10,7 @@
 
 🔭 I’m currently learning and gaining experience in **Full Stack Web Development**
 
-💬 Ask me about **front/back end, app development, User Experience Design**
+💬 Ask me about **front/back end development, User Experience Design**
 
 📫 How to reach me **prithikamalesan@gmail.com**
     
