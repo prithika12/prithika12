@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Prithika Kamalesan</h1>
 
-<h3 align="center">A passionate computer science student interested in software development and UX/UI Design</h3>
+<h3 align="center">Honours BSc Computer Science & UX Design Graduate </h3>
 
 <p><img align="right" width="350" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif"></p>
 
 
 &nbsp;
 
-🔭 I’m currently learning and gaining experience in **Full Stack Web Development**
+💻 I’m a Software Engineer at EY, specializing in ServiceNow implementation, a cloud-based platform. I focus on building scalable systems and leveraging automation and AI to drive digital transformation and deliver high-impact business outcomes
 
-💬 Ask me about **front/back end development, User Experience Design**
+💬 Ask me about **front/back end development, ServiceNow Configuration, User Experience Design**
 
 📫 How to reach me **prithikamalesan@gmail.com**
     
